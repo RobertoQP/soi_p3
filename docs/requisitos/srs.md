@@ -268,6 +268,15 @@ enlazar a los términos de esta sección, pero no los definirá de nuevo.
 
 | Término | Definición en Proyecto Simbiosis | Fuente |
 | --- | --- | --- |
+| Nutricionista |Rol común y unificado dentro de la plataforma que engloba tanto a profesionales de la nutrición como a médicos. Tienen permisos para crear, publicar y validar recetas, así como para publicar artículos sobre hábitos saludables.|   Acta de captura de requisitos generales, Sección 1.3|   
+|Nutricionista acreditado| Profesional con rol de nutricionista que ha validado su condición profesional mediante documentación aportada en línea, lo cual se distingue en la interfaz mediante un distintivo visual (icono o estrella) en sus intervenciones y publicaciones.| Acta de captura de requisitos generales, Sección 1.3|
+|Receta adaptada| Resultado de buscar y filtrar recetas para que coincidan con el perfil de salud, alergias y restricciones alimentarias declaradas por un paciente. No implica que el sistema modifique automáticamente ingredientes o cantidades.| Acta de captura de requisitos generales, Sección 3|
+|Receta validada| Receta cuya adecuación clínica ha sido revisada y aprobada por un nutricionista (o creada directamente por uno de ellos), garantizando su calidad antes o después de su publicación.| Acta de captura de requisitos generales, Sección 3; Documento de Visión y Alcance, Sección 1.2|
+| Coordinador |Rol responsable de la administración y moderación de la plataforma. Sus funciones incluyen supervisar la actividad, gestionar cuentas (aprobación, suspensión y eliminación) y atender reportes de contenido inapropiado. |Acta de captura de requisitos generales, Sección 4; Documento de Visión y Alcance, Sección 3.1|
+| Cuidador | Usuario que asiste a uno o varios pacientes en la gestión de su dieta y el uso de la plataforma. Requiere autorización expresa del paciente para asociarse a su cuenta y acceder a sus datos de salud autorizados.| Acta de captura de requisitos generales, Secciones 1.2 y 2; Documento de Visión y Alcance, Sección 3.1|
+| Publicación de salud |Artículo breve sobre alimentación y hábitos de vida saludables redactado por un nutricionista y dirigido a los usuarios de la plataforma. Permite comentarios, pero no valoraciones numéricas.| Acta de captura de requisitos generales, Sección 5; Documento de Visión y Alcance, Sección 2.2|
+| Foro | Espacio común y público de interacción colaborativa donde los usuarios registrados (pacientes, cuidadores y nutricionistas) pueden compartir dudas y experiencias. Es independiente de los comentarios de las recetas.| Acta de captura de requisitos generales, Sección 4; Documento de Visión y Alcance, Sección 2.2|
+| Información / Datos de salud | Datos fisiológicos y condiciones médicas (como alergias o restricciones dietéticas) introducidos por los pacientes. Tienen carácter privado y protección reforzada, utilizándose exclusivamente para ajustar la visualización de recetas.| Acta de captura de requisitos generales, Secciones 2 y 7.1; Documento de Visión y Alcance, Sección 2.5 |
 
 ## 10. Modelos de análisis
 
